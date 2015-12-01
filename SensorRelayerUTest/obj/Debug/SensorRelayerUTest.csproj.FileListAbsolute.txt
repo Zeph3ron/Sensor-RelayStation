@@ -1,0 +1,13 @@
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\SensorRelayerUTest.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\SensorRelayerUTest.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\UdpSensorRelayer.exe
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\UdpSensorRelayer.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\obj\Debug\SensorRelayerUTest.csprojResolveAssemblyReference.cache
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\obj\Debug\SensorRelayerUTest.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\SensorRelayerUTest\obj\Debug\SensorRelayerUTest.pdb

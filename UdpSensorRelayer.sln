@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpSensorRelayer", "UdpSensorRelayer\UdpSensorRelayer.csproj", "{91CCC70F-FE14-4E0E-A7A3-DFCAAAFC4E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorRelayerUTest", "SensorRelayerUTest\SensorRelayerUTest.csproj", "{4A7A1EA4-408B-4A75-9BC8-53EC82A7859F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CCC70F-FE14-4E0E-A7A3-DFCAAAFC4E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CCC70F-FE14-4E0E-A7A3-DFCAAAFC4E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CCC70F-FE14-4E0E-A7A3-DFCAAAFC4E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CCC70F-FE14-4E0E-A7A3-DFCAAAFC4E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7A1EA4-408B-4A75-9BC8-53EC82A7859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7A1EA4-408B-4A75-9BC8-53EC82A7859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7A1EA4-408B-4A75-9BC8-53EC82A7859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7A1EA4-408B-4A75-9BC8-53EC82A7859F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

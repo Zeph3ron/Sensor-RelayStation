@@ -1,0 +1,9 @@
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\UdpSensorRelayer.exe.config
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\UdpSensorRelayer.exe
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\UdpSensorRelayer.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\obj\Debug\UdpSensorRelayer.exe
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\obj\Debug\UdpSensorRelayer.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\UdpSensorRelayer\UdpSensorRelayer\bin\Debug\System.Net.Http.Formatting.xml
